@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me 
-I HOPE Game Server Programmer  
+<h3 align="center">I HOPE Game Server Programmer  </h3>
 
 ### Tech Stack
 <h3 align="center">📚 Tech Stack 📚</h3>
